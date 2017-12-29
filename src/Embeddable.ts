@@ -1,0 +1,3 @@
+interface Embeddable{
+    getEmbaddable(): JQuery;
+}
